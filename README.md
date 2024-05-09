@@ -1,6 +1,6 @@
 <div align = "center">
   <h1 aling = "center"> Hi! I'm Alex! 👋<h1>
-  <img src = "">
+  <img src = "" alt = "Pending_Upload">
 </div>
 
 
